@@ -108,17 +108,7 @@ aside{
     object-fit:fill;
 }
 
-
-
-.container-main article p{
-    text-align: justify;
-    text-indent: 20px;
-    line-height: 25px;
-}
-
-.container-main article a{
-    display: inline;
-    text-decoration: none;
+…    text-decoration: none;
     margin: 10px 0;
 }
 
@@ -178,14 +168,14 @@ aside{
 }
 
 #categorias-links ul li a span {
-   padding: 2px;
-   background-color: grey;
-   color: white;
-}
-
-#categorias-links ul li a:hover{
-    color: grey;
-}
+    padding: 2px;
+    background-color: grey;
+    color: white;
+ }
+ 
+ #categorias-links ul li a:hover{
+     color: grey;
+ }
 
 
 #tags-popular{
@@ -254,4 +244,22 @@ footer a:hover{
     .aside-item{margin-bottom: 15px;}
 
     #sobreMim img {width: 200px; height: 300px;}
+}
+#categorias-links ul li a span {
+   padding: 2px;
+   background-color: grey;
+   color: white;
+}
+
+#categorias-links ul li a:hover{
+    color: grey;
+}
+#categorias-links ul li a span {
+   padding: 2px;
+   background-color: grey;
+   color: white;
+}
+
+#categorias-links ul li a:hover{
+    color: grey;
 }
